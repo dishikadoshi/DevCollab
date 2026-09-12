@@ -78,7 +78,7 @@ DevCollab features a robust, containerized execution pipeline using **Piston**.
 ### Quick Start
 1. **Clone & Install:**
    ```bash
-   git clone https://github.com/PratikshaVaya/Real-Time-Code-Collaboration-Platform.git
+   git clone (https://github.com/dishikadoshi/DevCollab.git)
    cd Real-Time-Code-Collaboration-Platform
    npm install
    ```
